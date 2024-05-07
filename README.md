@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://imgur.com/J3hD21O.png" alt="Javascript: criando requisições"> </p>
+<p align="center"> Projeto desenvolvido durante o curso "Javascript: criando requisições" </p>
 
 <hr>
 
